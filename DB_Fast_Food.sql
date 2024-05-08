@@ -176,7 +176,7 @@ INSERT INTO TiposPago (Descripcion) VALUES
 
 Select * from TiposPago
 
--- Insertar datos en Mensajeros
+-- Insertar datos en Mensajeros:
 INSERT INTO Mensajeros (Nombre, EsExterno) VALUES
 ('Mensajero Uno', 0), ('Mensajero Dos', 1), ('Mensajero Tres', 0), ('Mensajero Cuatro', 1), ('Mensajero Cinco', 0),
 ('Mensajero Seis', 1), ('Mensajero Siete', 0), ('Mensajero Ocho', 1), ('Mensajero Nueve', 0), ('Mensajero Diez', 1);
